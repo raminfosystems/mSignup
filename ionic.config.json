@@ -1,7 +1,0 @@
-{
-  "name": "mSignup",
-  "integrations": {
-    "capacitor": {}
-  },
-  "type": "angular-standalone"
-}
